@@ -66,6 +66,6 @@ httpd.serve_forever()
 ## OUTPUT:
 
 
-![output](.png)
+![output](sriexp1.png)
 ## RESULT:
 The program is executed succesfully
